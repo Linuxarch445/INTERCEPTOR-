@@ -34,7 +34,7 @@
 * **ADS-B & Satellite Monitoring:** Real-time tracking of aircraft, flight IDs, coordinates, and metadata plotted directly on an integrated tactical map.
 * **Live Message Interception:** Decodes live telemetry packets from nearby aircraft and ground stations.
 
-![Aircraft Tracker](1000143111.jpg)
+![Aircraft Tracker](1000143111.jpeg)
 
 ### 5. Dashboard & Session Management
 * **GridWatch Integration:** Track active AI sessions, token utilization, working directories, tool intents, and prompt history in a unified command center.
