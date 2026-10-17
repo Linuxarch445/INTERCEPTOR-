@@ -15,7 +15,7 @@
 * **Device Intelligence & Anomaly Tracking:** Tracks active transponders, states, flags, repeats, pressure, and battery levels.
 * **Sub-GHz Analyzer:** Advanced signal scope for pagers, sensors, and custom RF data.
 
-![433MHz Sensor Monitor](Screenshot from 2026-01-03 14-09-14 (1).jpg)
+![433MHz Sensor Monitor](1000143108.png)
 
 ### 2. Advanced Wireless Pentesting (Wi-Fi & Bluetooth)
 * **Comprehensive Wi-Fi Scanner:** Discover networks (2.4GHz / 5GHz), SSIDs, BSSIDs, channels, signal strengths, encryption protocols (WPA3, WPA2, WEP, Open), and connected clients.
