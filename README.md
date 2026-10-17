@@ -47,7 +47,7 @@
 
 Here is a quick look at the main platform layout, mode selection, and recent changelogs (v2.16.0):
 
-![Intercept Dashboard & Modes](1000143108.jpg)
+![Intercept Dashboard & Modes](1000143108.jpeg)
 
 ---
 
