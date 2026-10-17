@@ -22,7 +22,7 @@
 * **Proximity Radar & Channel Analysis:** Visualizes target distribution via an interactive tactical radar map and real-time channel occupancy charts.
 * **Monitor Mode & Attack Vectors:** Seamlessly toggle interface monitor modes for packet analysis and active assessment.
 
-![WiFi Scanner & Radar](1000143107.jpg)
+![WiFi Scanner & Radar](1000143107.png)
 
 ### 3. Listening Post & Audio Signal Routing
 * **Frequency Tuning & Demodulation:** Tune into precise audio and communication bands (e.g., 118.000 MHz aviation bands) with AM, NFM, WFM, USB, and LSB modes.
