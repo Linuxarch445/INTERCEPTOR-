@@ -1,4 +1,3 @@
-# INTERCEPTOR-
 # INTERCEPT: Signal Intelligence & Counter Surveillance Platform
 
 [![Version](https://img.shields.io/badge/version-v2.16.0-blue.svg)](https://github.com/)
